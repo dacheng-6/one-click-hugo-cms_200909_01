@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://eager-wilson-3ff26a.netlify.app/"
 languageCode = "en-us"
 languageLang = "en"
 title = "Homepage"
