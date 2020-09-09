@@ -2,7 +2,7 @@ baseurl = "/"
 languageCode = "en-us"
 languageLang = "en"
 title = "Homepage"
-themesDir = "/themes"
+themesDir = "site/themes"
 theme = "meghna-hugo-master"
 # RSS, categories and tags disabled for an easy start
 # See configuration options for more details: 
